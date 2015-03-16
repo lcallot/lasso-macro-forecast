@@ -7,7 +7,7 @@ Author: Laurent Callot (l.callot@vu.nl)
 
 Date: 19/11/2014
 
-** Disclaimer: this is old and somewhat ugly code.
+** Disclaimer: this is old and somewhat ugly code.**
 
 This repository contains the replication material for _Oracle Efficient estimation and Forecasting with the Adaptive Lasso and the Adaptive Group Lasso in Vector Autoregressions_. All the computations are carried using *R*.
 
